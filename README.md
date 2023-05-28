@@ -1,9 +1,13 @@
-# React native jobs
+# react-mobile-app
 
-## Install dependency
+## Setup
+
+Install dependencies
 
     npm install
-    
-## How to run
+
+## Scripts
+
+Run project
 
     npm start
